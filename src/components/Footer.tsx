@@ -50,7 +50,7 @@ const Footer = () => {
 
         <div className="border-t border-border/50 pt-8 text-center">
           <p className="text-muted-foreground">
-            © 2024 SolTech TechInside. Semua hak dilindungi.
+            © 2025 SolTech TechInside. Semua hak dilindungi.
           </p>
         </div>
       </div>
