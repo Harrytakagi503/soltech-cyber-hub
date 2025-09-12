@@ -16,13 +16,13 @@ const Hero = () => {
       
       {/* Content */}
       <div className="relative z-10 text-center max-w-4xl mx-auto px-6">
-        <div className="flex items-center justify-center gap-6 mb-6">
+        <div className="flex items-center justify-center gap-2 sm:gap-4 md:gap-6 mb-6">
           <img 
             src={logo1Image} 
             alt="TECHINCSIDE Logo" 
-            className="h-16 w-auto md:h-20"
+            className="h-10 w-auto sm:h-14 md:h-20 flex-shrink-0"
           />
-          <h1 className="text-6xl md:text-8xl font-bold glow-text text-primary">
+          <h1 className="text-2xl sm:text-4xl md:text-6xl lg:text-8xl font-bold glow-text text-primary leading-tight">
             TECHINCSIDE
           </h1>
         </div>
