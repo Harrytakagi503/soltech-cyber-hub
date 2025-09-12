@@ -36,7 +36,12 @@ const Hero = () => {
             <Phone className="mr-2 h-5 w-5" />
             Hubungi Sekarang
           </Button>
-          <Button variant="outline" size="lg" className="glow-border hover:scale-105 transition-all duration-300">
+          <Button 
+            variant="outline" 
+            size="lg" 
+            className="glow-border hover:scale-105 transition-all duration-300"
+            onClick={() => window.open("https://maps.app.goo.gl/9iFxexoA3R1YzygeA", "_blank")}
+          >
             <MapPin className="mr-2 h-5 w-5" />
             Lokasi Kami
           </Button>
