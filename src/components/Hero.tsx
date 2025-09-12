@@ -24,7 +24,8 @@ const Hero = () => {
           />
           <h1 className="text-2xl sm:text-4xl md:text-6xl lg:text-8xl font-bold glow-text text-primary leading-tight">
              <span className="text-primary">TECH</span>
-             <span className="text-accent">INCSIDE</span>
+             <span className="text-tech-yellow">INC</span>
+             <span className="text-accent">SIDE</span>
           </h1>
         </div>
         <p className="text-lg md:text-xl mb-8 text-muted-foreground max-w-2xl mx-auto">
