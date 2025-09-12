@@ -7,8 +7,8 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div>
             <h3 className="text-2xl font-bold mb-4">
-              <span className="text-primary">SOL</span>
-              <span className="text-accent">TECH</span>
+              <span className="text-primary">TECHINC</span>
+              <span className="text-accent">SIDE</span>
             </h3>
             <p className="text-muted-foreground mb-4">
               Menyediakan layanan service komputer profesional dengan teknologi terdepan untuk semua kebutuhan IT Anda.
@@ -50,7 +50,7 @@ const Footer = () => {
 
         <div className="border-t border-border/50 pt-8 text-center">
           <p className="text-muted-foreground">
-            © 2025 SolTech TechInside. Semua hak dilindungi.
+            © 2025 TechInside. Semua hak dilindungi.
           </p>
         </div>
       </div>
