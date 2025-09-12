@@ -28,7 +28,7 @@ const Hero = () => {
           </h1>
         </div>
         <p className="text-lg md:text-xl mb-8 text-muted-foreground max-w-2xl mx-auto">
-          Layanan Service Komputer Profesional dengan Teknologi Terdepan
+          Jasa Service Komputer dan Rakit PC Gaming, Editing, Office Profesional Tangerang
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
