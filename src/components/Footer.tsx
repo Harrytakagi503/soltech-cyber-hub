@@ -14,6 +14,17 @@ const Footer = () => {
               Menyediakan layanan service komputer profesional dengan teknologi terdepan untuk semua kebutuhan IT Anda.
             </p>
           </div>
+          <div className="flex items-center justify-center gap-2 sm:gap-4 md:gap-6 mb-6">
+          <img 
+            src={logo1Image} 
+            alt="TECHINCSIDE Logo" 
+            className="h-10 w-auto sm:h-14 md:h-20 flex-shrink-0"
+          />
+          <h1 className="text-2xl sm:text-4xl md:text-6xl lg:text-8xl font-bold glow-text text-primary leading-tight">
+             <span className="text-tech-yellow">TECHINC</span>
+             <span className="text-accent">SIDE</span>
+          </h1>
+        </div>
 
           <div>
             <h4 className="text-lg font-semibold mb-4 text-primary">Layanan</h4>
