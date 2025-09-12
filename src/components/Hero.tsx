@@ -15,9 +15,8 @@ const Hero = () => {
       
       {/* Content */}
       <div className="relative z-10 text-center max-w-4xl mx-auto px-6">
-        <h1 className="text-6xl md:text-8xl font-bold mb-6 glow-text">
-          <span className="text-primary">SOL</span>
-          <span className="text-accent">TECH</span>
+        <h1 className="text-6xl md:text-8xl font-bold mb-6 glow-text text-primary">
+          TECHINCSIDE
         </h1>
         <p className="text-2xl md:text-3xl font-semibold mb-4 text-cyber-blue">
           TECHINCSIDE
