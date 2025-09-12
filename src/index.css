@@ -34,6 +34,9 @@ All colors MUST be HSL.
     --cyber-blue: 200 100% 50%;
     --cyber-purple: 270 100% 50%;
 
+    --tech-yellow: 56 98% 53%;
+    --tech-yellow-foreground: 240 10% 3.9%;
+
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
