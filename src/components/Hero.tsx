@@ -23,8 +23,7 @@ const Hero = () => {
             className="h-10 w-auto sm:h-14 md:h-20 flex-shrink-0"
           />
           <h1 className="text-2xl sm:text-4xl md:text-6xl lg:text-8xl font-bold glow-text text-primary leading-tight">
-             <span className="text-primary">TECH</span>
-             <span className="text-tech-yellow">INC</span>
+             <span className="text-tech-yellow">TECHINC</span>
              <span className="text-accent">SIDE</span>
           </h1>
         </div>
