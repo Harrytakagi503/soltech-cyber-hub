@@ -4,14 +4,14 @@ import { Monitor, HardDrive, Zap, Shield, Wrench, Cpu } from "lucide-react";
 const services = [
   {
     icon: Monitor,
-    title: "Perbaikan Hardware",
-    description: "Service motherboard, RAM, processor, dan komponen hardware lainnya",
+    title: "JASA RAKIT PC",
+    description: "Rakit PC sesuai kebutuhanmu, untuk Gaming, Editing, Office dan lain-lain",
     color: "text-primary"
   },
   {
     icon: HardDrive,
-    title: "Recovery Data",
-    description: "Pemulihan data yang hilang dari storage yang rusak",
+    title: "Backup Data System dan Instal Ulang",
+    description: "Pemulihan data yang hilang dari storage yang rusak dan rebuild Operating system PC",
     color: "text-cyber-blue"
   },
   {
