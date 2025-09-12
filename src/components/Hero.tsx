@@ -32,7 +32,11 @@ const Hero = () => {
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
-          <Button size="lg" className="neon-glow hover:scale-105 transition-all duration-300">
+          <Button 
+            size="lg" 
+            className="neon-glow hover:scale-105 transition-all duration-300"
+            onClick={() => window.open("https://wa.me/6289508129920", "_blank")}
+          >
             <Phone className="mr-2 h-5 w-5" />
             Hubungi Sekarang
           </Button>
