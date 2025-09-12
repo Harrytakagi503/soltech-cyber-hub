@@ -12,7 +12,7 @@ const Contact = () => {
   };
 
   const handleMaps = () => {
-    window.open("https://maps.google.com/?q=Jl. Raya Parung Jahe, Suka Manah, Kec. Jambe, Kabupaten Tangerang, Banten 15720", "_blank");
+    window.open("https://maps.app.goo.gl/ki5qpEbdXkq893Hf7?g_st=aw");
   };
 
   return (
