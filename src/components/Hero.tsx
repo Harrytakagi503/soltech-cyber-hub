@@ -1,7 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Phone, MapPin } from "lucide-react";
 import heroImage from "@/assets/hero-bg.jpg";
-import logoImage from "@/assets/techincside-logo.png";
 import logo1Image from "@/assets/techincside-logo1.png";
 
 const Hero = () => {
@@ -17,11 +16,6 @@ const Hero = () => {
       
       {/* Content */}
       <div className="relative z-10 text-center max-w-4xl mx-auto px-6">
-        <img 
-          src={logoImage} 
-          alt="TECHINCSIDE Logo" 
-          className="mx-auto mb-6 h-24 w-auto md:h-32"
-        />
         <div className="flex items-center justify-center gap-6 mb-6">
           <img 
             src={logo1Image} 
