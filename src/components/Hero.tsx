@@ -18,9 +18,6 @@ const Hero = () => {
         <h1 className="text-6xl md:text-8xl font-bold mb-6 glow-text text-primary">
           TECHINCSIDE
         </h1>
-        <p className="text-2xl md:text-3xl font-semibold mb-4 text-cyber-blue">
-          TECHINCSIDE
-        </p>
         <p className="text-lg md:text-xl mb-8 text-muted-foreground max-w-2xl mx-auto">
           Layanan Service Komputer Profesional dengan Teknologi Terdepan
         </p>
