@@ -130,6 +130,19 @@ All colors MUST be HSL.
     background-size: 50px 50px;
   }
 
+  .text-tech-yellow {
+  color: hsl(var(--tech-yellow));
+}
+
+.neon-glow {
+  box-shadow: 
+    0 0 5px hsl(var(--tech-yellow)),
+    0 0 10px hsl(var(--tech-yellow)),
+    0 0 15px hsl(var(--tech-yellow)),
+    0 0 20px hsl(var(--tech-yellow) / 0.8),
+    0 0 40px hsl(var(--tech-yellow) / 0.6);
+}
+
   .neon-glow {
     box-shadow: 
       0 0 5px hsl(var(--primary)),
