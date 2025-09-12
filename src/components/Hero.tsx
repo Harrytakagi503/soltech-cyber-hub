@@ -2,6 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Phone, MapPin } from "lucide-react";
 import heroImage from "@/assets/hero-bg.jpg";
 import logoImage from "@/assets/techincside-logo.png";
+import logo1Image from "@/assets/techincside-logo1.png";
 
 const Hero = () => {
   return (
@@ -21,9 +22,16 @@ const Hero = () => {
           alt="TECHINCSIDE Logo" 
           className="mx-auto mb-6 h-24 w-auto md:h-32"
         />
-        <h1 className="text-6xl md:text-8xl font-bold mb-6 glow-text text-primary">
-          TECHINCSIDE
-        </h1>
+        <div className="flex items-center justify-center gap-6 mb-6">
+          <img 
+            src={logo1Image} 
+            alt="TECHINCSIDE Logo" 
+            className="h-16 w-auto md:h-20"
+          />
+          <h1 className="text-6xl md:text-8xl font-bold glow-text text-primary">
+            TECHINCSIDE
+          </h1>
+        </div>
         <p className="text-lg md:text-xl mb-8 text-muted-foreground max-w-2xl mx-auto">
           Layanan Service Komputer Profesional dengan Teknologi Terdepan
         </p>
