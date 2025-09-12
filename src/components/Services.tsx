@@ -4,7 +4,7 @@ import { Monitor, HardDrive, Zap, Shield, Wrench, Cpu } from "lucide-react";
 const services = [
   {
     icon: Monitor,
-    title: "JASA RAKIT PC",
+    title: "Jasa Rakit PC",
     description: "Rakit PC sesuai kebutuhanmu, untuk Gaming, Editing, Office dan lain-lain",
     color: "text-primary"
   },
